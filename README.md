@@ -27,14 +27,15 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 ### unidad 2
 
 * condicionales y lógica
-* funciones
-* texto
+* tiempo
+* aleatoreidad
+* color y computación
 
 ### unidad 3
 
-* color y computación
 * interactividad
-* aleatoreidad
+* funciones
+* texto
 * objetos
 
 ## calendario
@@ -58,8 +59,10 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | [14](./00-docentes/sesion-14/README.md)     | 06-19 | objetos                |
 | [15](./00-docentes/sesion-15/README.md)     | 06-26 | examen                 |
 
+## evaluaciones
+
 ## bibliografía
 
 * John Maeda
 * p5js.org
-* code as creative medium, golan levin y tega brain, <https://mitpress.mit.edu/9780262542043/code-as-creative-medium/> 
+* code as creative medium, golan levin y tega brain, <https://mitpress.mit.edu/9780262542043/code-as-creative-medium/>
