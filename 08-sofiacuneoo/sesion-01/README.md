@@ -1,4 +1,4 @@
 # sesion-01
 ## un subtitulo 
 
-![texto que explica la imagen](./ethel cain miau.webp)
+![ethel cain aka la mejor cantante del mundo](./ethel.webp)
