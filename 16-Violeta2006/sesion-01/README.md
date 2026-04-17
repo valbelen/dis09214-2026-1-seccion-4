@@ -1,7 +1,6 @@
 # sesion-01
 
-## un subtitulo
-
+## patongos
 tengo
 ganas
  de 
